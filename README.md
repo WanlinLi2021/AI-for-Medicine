@@ -1,5 +1,7 @@
 # AI for Medicine
 
+<img src="project_AIMedicine.jpg" alt="isolated" width="500"/>
+
 ## My assignments from "AI for Medicine Specialization" offered by DeepLearning.AI (Coursera)
 
 - Create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
